@@ -7,7 +7,7 @@ let nav = document.createElement('div');
 nav.classList.add("nav")
 nav.innerHTML = `
 
-      <a class = "divLogo" href="/">
+      <a class = "divLogo" href="index.html">
         <img class="logo" src="images/logoshawarmaji.png" alt="" />
       </a>
       <ul>
